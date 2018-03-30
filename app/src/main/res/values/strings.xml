@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Socket Connection</string>
+    <string name="send_photo_button">Send Photo</string>
+    <string name="choose_photo_button">Choose Photo</string>
+    <string name="send_video_button">Send Video</string>
+    <string name="choose_video_button">Choose Video</string>
+    <string name="content_description_imageView">Image View</string>
+</resources>
